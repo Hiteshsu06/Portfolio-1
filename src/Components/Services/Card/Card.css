@@ -1,0 +1,18 @@
+.main{
+border-color: #ffa500 ;
+border-width: 2px;
+border-style: solid;
+border-radius: 4px;
+width:200px;
+height: 345px;
+margin-left: 80px ;
+}
+.main-1{
+    width: 200px;
+    height: 300px;
+}
+.main-2{
+    width:150px;
+    height: 40px;
+}
+

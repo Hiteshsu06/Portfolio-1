@@ -1,0 +1,12 @@
+.About-main{
+    margin-left: 20px;
+    margin-top: 80px;
+    display: flex;
+}
+.About-main-1{
+    width:40%;
+    margin-top: 10px;
+}
+.About-main-2{
+    margin-top: 10px;
+}

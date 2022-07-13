@@ -1,0 +1,30 @@
+.contact_main{
+    display: flex;
+    margin-top: 60px;
+}
+.contact_main_1{
+    width: 50%;
+    margin-top: 40px;
+    margin-left: 20px;
+    font-family: 'Tai Heritage Pro', serif;
+}
+.contact_main_1-1{
+    margin-bottom: 20px;
+    
+}
+.contact_main_1-2{
+    width:70% ;
+    margin-bottom: 40px;
+    line-height: 22px;
+}
+
+.contact_main_1-3-1{
+    display: flex;
+    gap: 20px;
+}
+.contact_main_1-4{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
